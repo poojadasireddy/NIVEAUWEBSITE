@@ -11,12 +11,12 @@ const Hero: React.FC = () => {
   return (
     <section className="relative py-20 md:py-32 overflow-hidden">
       <div className="container mx-auto px-4 text-center relative z-10">
-        <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-zinc-900">Welcome to <span className="text-[#02446d]">Niveau</span></h1>
-        <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold text-zinc-900 mt-2">
-          Your <span className="text-[#0272b7]">Digital Success</span> Starts Here
-        </h2>
+        <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-zinc-900">Where <span style={{color:'#0A4F6D'}}>Vision</span> Meets<br></br> <span style={{color:'#0078D4'}}>Flawless Execution.</span></h1>
         <p className="mt-6 max-w-3xl mx-auto text-xl text-black">
-          Trusted by startups and enterprises to design, build, and scale products that perform globally.
+          At Niveau Technologies, we believe great ideas deserve brilliant technology. We are more than a development agency we are a dedicated partner in your success, committed to transforming complex challenges into elegant, high-performance digital products.
+        </p>
+        <p className="mt-4 max-w-3xl mx-auto text-xl text-black">
+          Because at Niveau, it’s not just about building software it's about building the engine for your global growth.
         </p>
         
         <div className="mt-12 flex flex-col sm:flex-row justify-center items-center gap-4">

@@ -21,7 +21,7 @@ const AboutUs: React.FC = () => {
             <span className="block text-[#0272b7]">Niveau Technologies</span>
           </h2>
           <p className="text-lg md:text-xl lg:text-2xl text-zinc-600 max-w-3xl mx-auto">
-            A cutting-edge technology solutions provider dedicated to transforming businesses through innovation, efficiency, and strategic excellence.
+            We are your strategic technology partner, founded to bridge the gap between business ambition and technological innovation. Our team of expert engineers, strategists, and AI specialists acts as a dedicated extension of your team. We embed advanced machine learning to build solutions that don't just function they drive growth, efficiency, and long-term success.
           </p>
         </div>
 

@@ -95,7 +95,7 @@ const Services: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="text-center max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold text-zinc-900 mx-0 text-center">Our <span className="text-[#02446d]">Expertise</span></h2>
-          <p className="mt-4 text-lg md:text-xl lg:text-2xl text-center text-zinc-700">We operate at the intersection of strategy and technology. Our expertise is defined by our ability to develop robust, scalable, and intelligent frameworks that address the most complex challenges faced by modern enterprises. We focus on delivering tangible outcomes that drive sustainable growth and create long-term value for our partners.</p>
+          <p className="mt-4 text-lg md:text-xl lg:text-2xl text-center text-zinc-700">We build intelligent digital solutions that deliver tangible business results. Our expertise combines custom AI and machine learning with expert software development and scalable cloud architecture. We unite this technical strength with strategic product design to create solutions that are powerful, user-friendly, and engineered for long-term value.</p>
           <div className="mt-10">
             <button
               ref={buttonRef}

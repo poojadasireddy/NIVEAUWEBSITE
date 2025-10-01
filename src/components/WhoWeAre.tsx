@@ -158,7 +158,7 @@ const WhoWeAre: React.FC = () => {
             ref={paragraphRef}
             className="who-we-are-paragraph mt-6 text-lg md:text-xl lg:text-2xl text-black leading-relaxed"
           >
-            We operate at the intersection of strategy and technology. Our expertise is defined by our ability to develop robust, scalable, and intelligent frameworks that address the most complex challenges faced by modern enterprises. We focus on delivering tangible outcomes that drive sustainable growth and create long-term value.
+            We operate at the intersection of strategy and technology. Our expertise is in developing robust, scalable, and AI-powered frameworks that solve the most complex challenges faced by modern enterprises. By integrating artificial intelligence directly into our solutions, we deliver tangible outcomes that drive sustainable growth and create long-term value.
           </p>
           <div className="mt-10">
             <button

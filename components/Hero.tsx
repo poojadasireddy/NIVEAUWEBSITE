@@ -21,12 +21,12 @@ const Hero: React.FC = () => {
           <span className="text-zinc-400">→</span>
         </div>
 
-        <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-zinc-900">Welcome to Niveau</h1>
-        <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold text-zinc-900 mt-2">
-          Your Digital <span className="inline-flex items-center gap-2">Success<svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-yellow-400" viewBox="0 0 20 20" fill="currentColor"><path d="M10.894 2.553a1 1 0 00-1.788 0l-1.42 2.882a1 1 0 01-.762.55l-3.192.464a1 1 0 00-.554 1.705l2.31 2.252a1 1 0 01.287.884l-.546 3.179a1 1 0 001.451 1.054L10 13.4l2.854 1.5a1 1 0 001.451-1.054l-.546-3.179a1 1 0 01.287-.884l2.31-2.252a1 1 0 00-.554-1.705l-3.192-.464a1 1 0 01-.762-.55L10.894 2.553z" /></svg></span> Starts Here
-        </h2>
+        <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-zinc-900">Where <span style={{color:'#0A4F6D'}}>Vision</span> Meets<br></br> <span style={{color:'#0078D4'}}>Flawless Execution.</span></h1>
         <p className="mt-6 max-w-2xl mx-auto text-lg text-zinc-600">
-          Trusted by startups and enterprises to design, build, and scale products that perform globally.
+          At Niveau Technologies, we believe great ideas deserve brilliant technology. We are more than a development agency we are a dedicated partner in your success, committed to transforming complex challenges into elegant, high-performance digital products.
+        </p>
+        <p className="mt-4 max-w-2xl mx-auto text-lg text-zinc-600">
+          Because at Niveau, it’s not just about building software it's about building the engine for your global growth.
         </p>
         
         <div className="mt-10 flex flex-col sm:flex-row justify-center items-center gap-4">
